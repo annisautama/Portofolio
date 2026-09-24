@@ -374,7 +374,7 @@ urban-mobility-geospatial-clustering/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/urban-mobility-geospatial-clustering.git
+git clone https://github.com/annisautama/urban-mobility-geospatial-clustering.git
 
 cd urban-mobility-geospatial-clustering
 
