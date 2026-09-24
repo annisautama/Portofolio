@@ -241,7 +241,7 @@ R²: 0.91
 
 🚀 Quick Start
 1. Clone
-git clone https://github.com/annisaberliana/cloud-cost-forecasting.git
+git clone https://github.com/annisautama/cloud-cost-forecasting.git
 
 cd cloud-cost-forecasting
 
