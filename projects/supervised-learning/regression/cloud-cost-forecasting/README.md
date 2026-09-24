@@ -241,7 +241,7 @@ R²: 0.91
 
 🚀 Quick Start
 1. Clone
-git clone https://github.com/YOUR_USERNAME/cloud-cost-forecasting.git
+git clone https://github.com/annisaberliana/cloud-cost-forecasting.git
 
 cd cloud-cost-forecasting
 
@@ -359,7 +359,7 @@ LLM-generated cost explanations
 
 👨‍💻 Author
 
-YOUR NAME
+Annisa Utama Berliana
 
 Data Scientist / Machine Learning Engineer
 
