@@ -788,13 +788,11 @@ BUSINESS DECISION
 
 # 👨‍💻 Author
 
-## Your Name
-
-**Aspiring Data Scientist | Machine Learning Enthusiast**
+## Annisa Utama Berliana
 
 Interested in:
 
-`Machine Learning` · `Predictive Analytics` · `Explainable AI` · `MLOps` · `Data-driven Decision Making`
+`Machine Learning` · `Predictive Analytics` · `Explainable AI` · `MLOps` · `Data-driven Decision Making`.`Agentic AI`.`AI Engineering`.`Deep Learning`
 
 ---
 
