@@ -792,7 +792,7 @@ BUSINESS DECISION
 
 Interested in:
 
-`Machine Learning` · `Predictive Analytics` · `Explainable AI` · `MLOps` · `Data-driven Decision Making`.`Agentic AI`.`AI Engineering`.`Deep Learning`
+`Machine Learning` · `Predictive Analytics` · `Explainable AI` · `MLOps` · `Data-driven Decision Making` . `Agentic AI` . `AI Engineering` . `Deep Learning`
 
 ---
 
